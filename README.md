@@ -1,7 +1,7 @@
 # Discovery-of-Handwashing
 
 <p align="center">
-  <img src="images/3386540.jpg" >
+  <img src="images/226.jpg" >
 </p>
 
 Em 1847, o médico húngaro Ignaz Semmelweis faz uma descoberta inovadora: ele descobriu a lavagem das mãos. 
